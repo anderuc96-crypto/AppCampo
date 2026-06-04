@@ -13,6 +13,7 @@ El trabajo de campo con información geoespacial suele enfrentarse a aplicacione
 | 📍 GPS | Seguimiento en tiempo real. Centra automáticamente al iniciar. |
 | 📐 Dibujo | Polígonos a mano alzada con cálculo de área geodésica (m² y ha). |
 | 🎯 Tracker | Graba tu recorrido y lo cierra como polígono al finalizar. |
+| 📂 Importación | Carga archivos GeoJSON existentes (polígonos). Los añade al mapa manteniendo sus propiedades. |
 | 📌 Puntos de campo | Registro con coordenadas, timestamp y observaciones. |
 | 🗺️ Capas base | Ortofoto PNOA y callejero OpenStreetMap (intercambiables). |
 | 💾 Exportación | GeoJSON listo para QGIS u otro SIG. |
